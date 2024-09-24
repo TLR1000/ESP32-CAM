@@ -1,3 +1,5 @@
+//This version works unstable with Core V3.x
+
 //https://circuitdigest.com/microcontroller-projects/object-recognition-using-esp32-cam-and-edge-impulse
 
 /**
